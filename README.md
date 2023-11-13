@@ -1,4 +1,8 @@
+# Hello, I'm ChrisXp!
 
+## About Me
+- 🌱 I’m currently learning Linux and Coreboot.
+- 🤔 I’m looking for help with windbg and UEFI stuff.
 
-### Welcome
-Hi, I am ChrisXp. I'm glad to see you here!
+## My GitHub Stats
+
