@@ -1,8 +1,12 @@
-# Hello, I'm ChrisXp!
+# Hello, I'm CPWang!
 
 ## About Me
-- 🌱 I’m currently learning Linux and Coreboot.
-- 🤔 I’m looking for help with windbg and UEFI stuff.
+- 🌱 a little bit coreboot.
+- 🌱 a little bit UEFI.
+- 🌱 a little bit shell script
+- 🌱 a little bin linux
+
+🤔 Let's join the Open Soruce !
 
 ## My GitHub Stats
 
